@@ -1,5 +1,6 @@
 # Galaxy Swapper Bypass
 
 This is a program that bypasses the Galaxy Swapper's Linkvertise links
-![github-small](https://cdn.discordapp.com/attachments/864011599635152899/958354465830891550/2022-03-29_21-09-31.gif);
-![github-small](https://cdn.discordapp.com/attachments/864011599635152899/958354466371960892/2022-03-29_21-09-41.gif)
+
+![2022-03-29 21-09-31](https://user-images.githubusercontent.com/95536563/160620976-9d58ff59-aecc-4051-96ef-315e22f131fe.gif)
+![2022-03-29 21-09-41](https://user-images.githubusercontent.com/95536563/160620986-0023f8fa-1dd6-45d8-82ab-8676bb9d3668.gif)
